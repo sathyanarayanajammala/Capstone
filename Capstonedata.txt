@@ -1,0 +1,13 @@
+10 Great Healthcare Data Sets
+=================================
+
+http://www.datasciencecentral.com/profiles/blogs/10-great-healthcare-data-sets
+
+HealthData.gov
+-------------------
+    https://www.healthdata.gov/search/field_topic/national-17841/type/dataset?sort_by=changed
+	
+
+4 big reasons why healthcare needs data science
+--------------------------------------------------
+	http://www.cio.com/article/3001216/analytics/4-big-reasons-why-healthcare-needs-data-science.html
