@@ -1,0 +1,43 @@
+NCD Analysis
+=================
+publications and previous study(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181025/)
+----------------------------------
+
+A sample of four peer-reviewed journals published from India and indexed in Medline were selected - 
+National Medical Journal of India (NMJI), 
+Indian Journal of Medical Research (IJMR), 
+Journal of Association of Physicians of India (JAPI) and 
+Indian Journal of Community Medicine (IJCM). 
+
+Noncommunicable Diseases, Poverty and the Development Agenda" 
+----------------------------------------------------------------
+http://www.who.int/nmh/publications/discussion_paper_ncd_en.pdf
+
+
+“Doctor population ratio for India - The reality”(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724242/)
+---------------------------------------------------
+India plans to establish some 200 new medical colleges in the next 10 years to meet the projected huge shortage of 600,000 doctors.
+
+
+
+Decision trees for NCDs(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4466856/)
+-----------------------------------------------------------------------------------------
+ The decision tree method is a powerful statistical tool for classification, prediction, interpretation, and data manipulation that has several potential applications in medical research. Using decision tree models to describe research findings has the following advantages:
+
+• Simplifies complex relationships between input variables and target variables by dividing original input variables into significant subgroups.
+
+• Easy to understand and interpret.
+
+• Non-parametric approach without distributional assumptions.
+
+• Easy to handle missing values without needing to resort to imputation.
+
+• Easy to handle heavy skewed data without needing to resort to data transformation.
+
+• Robust to outliers. 
+
+Effect of insulin plant (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2924971/)
+-------------------------
+
+
+http://siteresources.worldbank.org/HEALTHNUTRITIONANDPOPULATION/Resources/Peer-Reviewed-Publications/WBDeepeningCrisis.pdf 
