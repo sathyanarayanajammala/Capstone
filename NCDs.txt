@@ -41,3 +41,11 @@ Effect of insulin plant (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2924971/)
 
 
 http://siteresources.worldbank.org/HEALTHNUTRITIONANDPOPULATION/Resources/Peer-Reviewed-Publications/WBDeepeningCrisis.pdf 
+
+
+Data set links
+-------------------
+https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=life&numAtt=&numIns=&type=&sort=nameUp&view=table
+
+https://github.com/fivethirtyeight/data/blob/33b01e4a37911fff33f1e8afa9bc01a8d3698d8b/nutrition-studies/raw_anonymized_data.csv 
+https://github.com/caesar0301/awesome-public-datasets#healthcare
